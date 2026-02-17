@@ -1,4 +1,4 @@
-<!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
+<!-- Markdown Docs: https://github.com/KevinFudge28/kmf-IT265-002-2026/blob/main/docs/Module-003-Dev-Log.md-->
 ## Name: Kevin Fudge
 ### Module:003
 
