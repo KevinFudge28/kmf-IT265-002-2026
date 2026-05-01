@@ -1,0 +1,40 @@
+<!-- Markdown Docs: https://github.com/KevinFudge28/kmf-IT265-002-2026/blob/main/docs/Module-007-Dev-Log -->
+## Name: Kevin Fudge
+### Module: 007
+
+<!-- Repeat the below as needed-->
+### Date: [03/30/2026]
+
+#### Goals for this Module
+<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
+- [ Complete Module 7 dev log ] Goal 1
+- [ Complete my demo build] Goal 2
+- [ Have people play test my demo build ] Goal 3
+-->
+
+#### Progress
+- **What I accomplished**:
+  - Summarize completed tasks or progress made.
+  - <!-- I completed my board game demo-->
+- **Challenges faced**:
+  - Describe blockers, bugs, or issues encountered.
+  -  <!--The chllange that I encountered was trying to make my game balanced for both players-->
+- **Solutions**:
+  - Detail how you addressed challenges or your thought process.
+  -  <!--I addressed this issue by doing many playtests with different people with different rules to find the one that works the best-->
+
+#### Learnings
+- Key insights, techniques, or concepts explored.
+-  <!--I used many different kinds of concepts to make the game interesting at first it was completely random with no dice at all for movement so made the game more interesting by incorperating dice for movement and interactions -->
+
+#### Free Thinking
+- Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
+-  <!--If I had more time would  have found some cool art for the items cards for my board game instead of having index cards with words alone-->
+<!--
+
+- Example prompts:
+  - N/A
+
+#### Next Steps
+- Tasks or experiments to focus on during the next session.
+-  <!--Start looking into turning this game into a digital version-->
