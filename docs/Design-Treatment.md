@@ -3,7 +3,7 @@
 ---
 
 ## Change Log
-<!-- 
+
 There was a few changes that were made from the physical prototype to the digital prototype. The changes that were made are:
 1. The hero can escape from any corner of the board, this is different from the physical version
 2. The hero can only use the item they get once then its gone, this is different then the physical version
@@ -11,7 +11,7 @@ There was a few changes that were made from the physical prototype to the digita
 4. The Agro feature from the physcial prototype was removed
 5. Traps are hidden on the digital version
 6. Traps are randomized in the digital version
--->
+
 
 ## Title
 <!-- 
